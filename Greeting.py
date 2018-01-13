@@ -1,9 +1,9 @@
-Print 'Good afternoon'
+Print 'Good morning'
 
 Print 'Good evening'
 
-
 Print 'Good night'
-Print 'Good afternoon'
+
+Print 'Good evening'
 
 
