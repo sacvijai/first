@@ -1,6 +1,6 @@
-Print 'Good Afternoon'
+Print 'Good afternoon'
 
-Print 'Good Evening'
+Print 'Good evening'
 
-Print 'Good Night'
-Print 'Good Afternoon'
+Print 'Good night'
+Print 'Good afternoon'
